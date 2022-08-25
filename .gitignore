@@ -1,0 +1,19 @@
+front-end
+
+node_modules
+.env
+.secret
+coverage
+coverage.json
+typechain
+typechain-types
+
+#Hardhat files
+cache
+artifacts
+address_testnet
+
+# misc
+.DS_Store
+*.pem
+
